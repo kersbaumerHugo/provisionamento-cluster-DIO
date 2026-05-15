@@ -1,0 +1,4 @@
+.vagrant/
+.env
+worker-token
+join-worker.sh
